@@ -60,12 +60,20 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+    ![Static Badge](https://img.shields.io/badge/Unity%203D-blak?style=for-the-badge&logo=unity&logoColor=white&color=black)
+    ![Static Badge](https://img.shields.io/badge/Arduino%20IDE-blak?style=for-the-badge&logo=arduino&logoColor=white&color=%2300707D)
+    ![Static Badge](https://img.shields.io/badge/Autodesk%20Inventor-blak?style=for-the-badge&logo=autodesk&logoColor=white&color=%23DE8530)
+    ![Static Badge](https://img.shields.io/badge/POWER%20BI-blak?style=for-the-badge&logo=powerbi&logoColor=black&color=%23F7D95B)
+    ![Static Badge](https://img.shields.io/badge/IBM%20SPSS-blak?style=for-the-badge&logo=ibm&logoColor=white&color=%2395B4D8%20)
 
 </p>
 <br>
+
+---
+
 <br>
+
+Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)  
+Last Edited on: 16/01/2024
 
 
