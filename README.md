@@ -24,5 +24,5 @@
 - :technologist: I am currently learning about Web Development on my own.
 - :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin [link](https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209)
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
+<a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
 
