@@ -1,6 +1,7 @@
 <div align="center">
 	<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </div>
+
 <p align="center">
 	<img src="https://github.com/daniels36999/daniels36999/blob/main/images/img1.jpg" width=80%/>
 </p>
@@ -22,5 +23,6 @@
 - :gem: I also have knowledge of 3D part design in Autodesk Inventor.
 - :technologist: I am currently learning about Web Development on my own.
 - :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin [link](https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209)
-<br><br>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
 
