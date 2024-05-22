@@ -96,6 +96,14 @@
 <p align="center"><b>Recuento</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="30%"></p>
 </div>
+name: Full-year calendar
+uses: daniels36999/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
 ---
 
