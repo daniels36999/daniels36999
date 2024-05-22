@@ -1,0 +1,18 @@
+name: Full-year calendar
+on:
+  push:
+    branches:
+      - main  # aquí puedes especificar la rama en la que quieres que se ejecute la acción
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate calendar
+        uses: daniels36999/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
