@@ -26,9 +26,15 @@
 
 <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+<br>
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
 <p align="center">
 
 - **Languages**:
@@ -43,6 +49,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+   ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 - **DataBases**:
 
@@ -72,22 +80,28 @@
     ![Static Badge](https://img.shields.io/badge/IBM%20SPSS-blak?style=for-the-badge&logo=ibm&logoColor=white&color=%2395B4D8%20)
 
 </p>
-<br>
+     
+</td>
+    <td>
+  
+## 📄📜 Estatus
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estadísticas | GitHub</b>
-<br>
 
-<div align="center">
+<p align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estadísticas | GitHub</b>
   <img src="https://github-readme-stats.vercel.app/api?username=daniels36999&show_icons=true&theme=transparent" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniels36999&theme=transparent" alt="daniels36999"  width="480"/>	
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lenguajes más Usados</b>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniels36999&show_icons=true&locale=en&layout=compact&line_height=20&title_color=006AFF&icon_color=2234AE&text_color=000000&bg_color=0,FFFFFF,FFFFFF" width="400" alt="daniels36999"/> 
-</div>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniels36999&theme=transparent" alt="daniels36999"  width="480"/>
+  <br>
+  <br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lenguajes más Usados</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniels36999&show_icons=true&locale=en&layout=compact&line_height=20&title_color=006AFF&icon_color=2234AE&text_color=000000&bg_color=0,FFFFFF,FFFFFF" width="400" alt="daniels36999"/>
+</p>
+     
+  </td>
+ </tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Visitas del Perfil</b>
 <br>
@@ -96,14 +110,7 @@
 <p align="center"><b>Recuento</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="30%"></p>
 </div>
-name: Full-year calendar
-uses: daniels36999/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
 
 ---
 
