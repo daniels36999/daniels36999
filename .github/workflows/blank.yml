@@ -1,18 +1,24 @@
-name: Full-year calendar
+name: Metrics
 on:
-  push:
-    branches:
-      - main  # aquí puedes especificar la rama en la que quieres que se ejecute la acción
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
+    if: "github.repository == 'daniels36999/daniels36999'"
     steps:
-      - uses: actions/checkout@v2
-      - name: Generate calendar
-        uses: https://github.com/daniels36999/metrics@latest
+    
+# Display isometric calendar (365 days)
+      - name: 📅 Isocalendar plugin (full year)
+        if: ${{ success() || failure() }}
+        uses: daniels36999/metrics@master
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: no
+          output_action: commit
+          delay: 10
