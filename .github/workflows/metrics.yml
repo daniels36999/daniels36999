@@ -8,14 +8,17 @@ jobs:
     runs-on: ubuntu-latest
     if: "github.repository == 'daniels36999/daniels36999'"
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+    # Display isometric calendar (365 days)
+      - name: 📅 Isocalendar plugin (full year)
+        if: ${{ success() || failure() }}
+        uses: simonSlamka/metrics@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: no
+          output_action: commit
+          delay: 10
