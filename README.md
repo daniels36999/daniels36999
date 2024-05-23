@@ -27,11 +27,7 @@
 <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
 
 <br>
-<br>
-<table width="100%" >
 
- <tr>
-    <td width="60%">
      
 ## 🛠️ Skills
 
@@ -81,27 +77,19 @@
 
 </p>
      
-</td>
-    <td>
-  
-## 📄📜 Estatus
-
-
-<p align="left">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estadísticas | GitHub</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estadísticas | GitHub</b>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniels36999&show_icons=true&theme=transparent" width="450"/>
-  <br>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniels36999&theme=transparent" alt="daniels36999"  width="480"/>
   <br>
   <br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lenguajes más Usados</b>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lenguajes más Usados</b>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniels36999&show_icons=true&locale=en&layout=compact&line_height=20&title_color=006AFF&icon_color=2234AE&text_color=000000&bg_color=0,FFFFFF,FFFFFF" width="400" alt="daniels36999"/>
 </p>
-     
-  </td>
- </tr>
-</table>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Visitas del Perfil</b>
 <br>
