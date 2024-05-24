@@ -1,5 +1,5 @@
 <div align="center">
-   <h2> Hi There, Welcome to my Github profile! 
+   <h2> 👷 Hi There, Welcome to my Github profile! 
       <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> 
    </h2>
    <img src="https://github.com/daniels36999/daniels36999/blob/main/images/img1.jpg" width=80%/> 
@@ -20,26 +20,20 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <table>
    <tr>
-      <td align="left">
-         - :books: Electronics and Telecommunications Engineer 
-         - :computer: Passionate about Front-End development of Web pages 
-         - :gem: I also have knowledge of 3D part design in Autodesk Inventor. 
-         - :technologist: I am currently learning about Web Development on my own. 
-         - :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin [link](https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209) 
+      <td align="left"><br>
+         - :books: Electronics and Telecommunications Engineer <br>
+         - :computer: Passionate about Front-End development of Web pages. <br>
+         - :gem: I also have knowledge of 3D part design in Autodesk Inventor. <br>
+         - :technologist: I am currently learning about Web Development on my own. <br>
+         - :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin.
+         <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
       </td>
       <td>
-         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = 300px style="border-radius: 10px;">
+         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = 250px >
       </td>
    </tr>
 </table>
-<br>
 
-
-<a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
-
-<br>
-
-     
 ## 🛠️ Skills
 
 <p align="center">
@@ -96,9 +90,10 @@
   <br>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lenguajes más Usados</b>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpiM3lpZnN6MWd5N3huZ3Y4eDhjNnByODYwdjBnNzkyMjE2ZmJrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVVgWtScb37USleUB3/giphy.gif" width="35"><b>Lenguajes más Usados</b>
 <p align="center">
   <img src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.languages.details.svg"/>
+   <img src="https://github.com/daniels36999/daniels36999/blob/main/images/robot.gif" width = "25%" />
 </p>
 
 
@@ -106,46 +101,47 @@
 <br>
 
 <div align="center">
-<p align="center"><b>Recuento</b><img src="Hi.gif" width="30px"></p>
+<p align="center"><b>Recuento  👀</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="30%"></p>
 </div>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzMW03YWR6dXlsZjV1bHY3aGk2dTYwMzVxbGh5YXd4YXNic3MyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width="35"><b>Métricas</b>
+
+<div align="center">
+
 <table>
 	
    <tr>
-         <th align="center">Cuenta</th>
-         <th align="center">Hábitos y actividad de codificación.</th>
+         <th align="center">👤 Perfil de Usuario</th>
+         <th align="center">🐧 Actividad de codificación.</th>
       </tr>
    <tr>
       <td align="center">
          <img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.classic.svg" alt=""></img>
       </td>
       <td  align="center">
-        <p>Recent activity charts</p><img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.habits.charts.svg" alt=""></img>
+	<img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.habits.charts.svg" alt=""></img>
       </td>
    </tr>
    <tr>
-         <th align="center">Calendario de compromiso isométricos</th>
-         <th align="center">Actividad de Lenguajes de Programación</th>
+         <th align="center">📅 Calendario de compromiso Semestral</th>
+         <th align="center">📊 Calendario de compromiso Anual</th>
       </tr>
    <tr>
       <td  align="center">
-         <p>Calendario de año completo</p>
 	 <img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
       </td>
       <td  align="center">
-         <p>Calendario de año completo</p>
 	 <img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
       </td>
    </tr>
 </table>
-
+</div>
 
 ---
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)  
-Last Edited on: 16/01/2024
+✌ Credit for Readme: [Abdul Khalid](https://github.com/0xabdulkhalid)  
+✅ Last Edited on: 16/01/2024
 
