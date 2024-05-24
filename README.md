@@ -142,6 +142,7 @@
 
 <br>
 
-✌ Credit for Readme: [Abdul Khalid](https://github.com/0xabdulkhalid)  
-✅ Last Edited on: 16/01/2024
+👤 Credit for Readme: [Abdul Khalid](https://github.com/0xabdulkhalid)  
+👤 Credit for Metrics: [Simon Lecoq](https://github.com/lowlighter)  
+✅ Last Edited By: Daniel Yautibug | 24/05/2024
 
