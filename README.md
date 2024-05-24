@@ -102,7 +102,7 @@
 
 <div align="center">
 <p align="center"><b>Recuento  👀</b><img src="Hi.gif" width="30px"></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="30%"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="35%"></p>
 </div>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzMW03YWR6dXlsZjV1bHY3aGk2dTYwMzVxbGh5YXd4YXNic3MyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width="35"><b>Métricas</b>
