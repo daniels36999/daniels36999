@@ -18,16 +18,22 @@
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = 300px style="border-radius: 10px;"></picture>
-
+<table>
+   <tr>
+      <td align="left">
+         - :books: Electronics and Telecommunications Engineer 
+         - :computer: Passionate about Front-End development of Web pages 
+         - :gem: I also have knowledge of 3D part design in Autodesk Inventor. 
+         - :technologist: I am currently learning about Web Development on my own. 
+         - :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin [link](https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209) 
+      </td>
+      <td>
+         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = 300px style="border-radius: 10px;">
+      </td>
+   </tr>
+</table>
 <br>
 
-- :books: Electronics and Telecommunications Engineer
-- :computer: Passionate about Front-End development of Web pages
-- :gem: I also have knowledge of 3D part design in Autodesk Inventor.
-- :technologist: I am currently learning about Web Development on my own.
-- :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin [link](https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209)
 
 <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
 
