@@ -1,16 +1,21 @@
 <div align="center">
-	<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+   <h2> Hi There, Welcome to my Github profile! 
+      <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> 
+   </h2>
+   <img src="https://github.com/daniels36999/daniels36999/blob/main/images/img1.jpg" width=80%/> 
+</div> 
+<br> 
+<div align="center">
+   <a href="https://daniels36999.github.io/portafolio-daniels/" target="_blank">
+      <img width= 18% src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portafolio"/>
+   </a>
+   <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209">
+      <img width= 17% src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+   <a href="https://github.com/daniels36999">
+      <img width= 15% src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+   </a>
 </div>
-
-<p align="center">
-	<img src="https://github.com/daniels36999/daniels36999/blob/main/images/img1.jpg" width=80%/>
-</p>
-
-<p align="center">
-    <a href="https://daniels36999.github.io/portafolio-daniels/" target="_blank"><img width= 18% src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portafolio"/></a>
-	<a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img width= 17% src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/daniels36999"><img width= 15% src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -87,7 +92,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lenguajes más Usados</b>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniels36999&show_icons=true&locale=en&layout=compact&line_height=20&title_color=006AFF&icon_color=2234AE&text_color=000000&bg_color=0,FFFFFF,FFFFFF" width="400" alt="daniels36999"/>
+  <img src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.languages.details.svg"/>
 </p>
 
 
@@ -108,10 +113,10 @@
       </tr>
    <tr>
       <td align="center">
-         <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+         <img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.classic.svg" alt=""></img>
       </td>
       <td  align="center">
-        <p>Recent activity charts</p><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img>
+        <p>Recent activity charts</p><img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.habits.charts.svg" alt=""></img>
       </td>
    </tr>
    <tr>
@@ -121,21 +126,11 @@
    <tr>
       <td  align="center">
          <p>Calendario de año completo</p>
-	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-	 <p>Calendario de medio año</p>
-	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
-	 <img width="900" height="1" alt="">
+	 <img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
       </td>
       <td  align="center">
-         <p>Análisis en profundidad (clonar y analizar repositorios)</p>
-         <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
-	 <p>Recently used (analyze recent activity events)</p>
-	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
-	 <p>Default algorithm</p>
-	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img>
-	 <p>Default algorithm (with details)</p>
-	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img>
-	 <img width="900" height="1" alt="">
+         <p>Calendario de año completo</p>
+	 <img alt="" width="400" src="https://github.com/daniels36999/daniels36999/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
       </td>
    </tr>
 </table>
