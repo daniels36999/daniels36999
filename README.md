@@ -99,6 +99,47 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="30%"></p>
 </div>
 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzMW03YWR6dXlsZjV1bHY3aGk2dTYwMzVxbGh5YXd4YXNic3MyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width="35"><b>Métricas</b>
+<table>
+	
+   <tr>
+         <th align="center">Cuenta</th>
+         <th align="center">Hábitos y actividad de codificación.</th>
+      </tr>
+   <tr>
+      <td align="center">
+         <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+      </td>
+      <td  align="center">
+        <p>Recent activity charts</p><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img>
+      </td>
+   </tr>
+   <tr>
+         <th align="center">Calendario de compromiso isométricos</th>
+         <th align="center">Actividad de Lenguajes de Programación</th>
+      </tr>
+   <tr>
+      <td  align="center">
+         <p>Calendario de año completo</p>
+	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+	 <p>Calendario de medio año</p>
+	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
+	 <img width="900" height="1" alt="">
+      </td>
+      <td  align="center">
+         <p>Análisis en profundidad (clonar y analizar repositorios)</p>
+         <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
+	 <p>Recently used (analyze recent activity events)</p>
+	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
+	 <p>Default algorithm</p>
+	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img>
+	 <p>Default algorithm (with details)</p>
+	 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img>
+	 <img width="900" height="1" alt="">
+      </td>
+   </tr>
+</table>
+
 
 ---
 
