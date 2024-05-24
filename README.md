@@ -20,14 +20,16 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <div align="left"><br>
-	 <img  align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = "280px" > <br>
+	 <img  align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = "320px" > <br>
 	 - :books: Electronics and Telecommunications Engineer <br>
          - :computer: Passionate about Front-End development of Web pages. <br>
          - :gem: I also have knowledge of 3D part design in Autodesk Inventor. <br>
          - :technologist: I am currently learning about Web Development on my own. <br>
          - :globe_with_meridians: I am currently looking for a new job opportunity, this is my Linkedin.<br>
 	 <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
+	<br>
 </div>
+<br>
 
 ## 🛠️ Skills
 
