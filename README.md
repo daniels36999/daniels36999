@@ -29,7 +29,7 @@
          <a href="https://www.linkedin.com/in/daniel-patricio-yautibug-65a656209"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Telecommunications+Engineer;ISO/IEC+27001+Implementing+Information+Security;Knowledge+of+Power+BI+;Preventive+and+Corrective+Maintenance+of+Computers"></a>
       </td>
       <td>
-         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = 250px >
+         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = "90%" >
       </td>
    </tr>
 </table>
