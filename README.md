@@ -19,8 +19,12 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<div align="right"><br>
+	<div align="center">
+         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = "25%" ><br>
+	</div>
+</div>
 <div align="left"><br>
-         <img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/face.gif?raw=true" width = "25%" ><br><br>
          - :books: Electronics and Telecommunications Engineer <br>
          - :computer: Passionate about Front-End development of Web pages. <br>
          - :gem: I also have knowledge of 3D part design in Autodesk Inventor. <br>
