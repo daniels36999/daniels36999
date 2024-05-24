@@ -84,8 +84,8 @@
      
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Estadísticas | GitHub</b>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniels36999&show_icons=true&theme=transparent" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniels36999&theme=transparent" alt="daniels36999"  width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniels36999&show_icons=true&theme=transparent" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniels36999&theme=transparent" alt="daniels36999"  width="450"/>
   <br>
   <br>
 </p>
