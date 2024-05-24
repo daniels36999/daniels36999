@@ -7,28 +7,23 @@ jobs:
   github-metrics-examples:
     runs-on: ubuntu-latest
     steps:
-      - name: 📅 Isocalendar plugin (half year)
+
+      - name: perfil
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+          
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
-      - name: 📌 Starred topics (icons)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_sort: starred
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: southamerica/Ecuador
 
-      - name: 📙 Terminal template
-        uses: lowlighter/metrics@latest
-        with:
-          template: terminal
-          filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-#           base: header, metadata
