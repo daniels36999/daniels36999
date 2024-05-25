@@ -96,11 +96,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Visitas del Perfil</b>
 <br>
-
 <div align="center">
+<img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/gato.gif" width = "20%" />
 <p align="center"><b>Recuento  👀</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="35%"></p>
 </div>
+<br>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzMW03YWR6dXlsZjV1bHY3aGk2dTYwMzVxbGh5YXd4YXNic3MyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width="35"><b>Métricas</b>
 
