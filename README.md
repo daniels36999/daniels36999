@@ -97,7 +97,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Visitas del Perfil</b>
 <br>
 <div align="center">
-<img align="right" src="https://github.com/daniels36999/daniels36999/blob/main/images/gato.gif" width = "20%" />
 <p align="center"><b>Recuento  👀</b><img src="Hi.gif" width="30px"></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7daniels36999%7D/count.svg" alt="visitor badge" width="35%"></p>
 </div>
@@ -137,10 +136,9 @@
 </div>
 
 ---
-
-<br>
-
 👤 Credit for Readme: [Abdul Khalid](https://github.com/0xabdulkhalid)  
 👤 Credit for Metrics: [Simon Lecoq](https://github.com/lowlighter)  
-✅ Last Edited By: Daniel Yautibug | 24/05/2024
+✅ Last Edited By: Daniel Yautibug | 24/05/2024  
+
+<img align="center" src="https://github.com/daniels36999/daniels36999/blob/main/images/gato.gif" width = "28%" />
 
